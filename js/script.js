@@ -1,6 +1,4 @@
-// Строгий режим
 "use strict";
-
 
 function gayFunction() {
 	alert('Я тоже');
